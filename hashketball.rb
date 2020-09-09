@@ -104,5 +104,4 @@ def game_hash
   }
   return nba
 end
-
 puts game_hash
